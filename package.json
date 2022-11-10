@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "concurrently": "^5.1.0",
-    "electron": "^8.2.3",
+    "electron": "^18.3.7",
     "react-scripts": "3.4.1"
   },
   "scripts": {
