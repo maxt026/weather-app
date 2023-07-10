@@ -15,12 +15,12 @@
     "moment": "^2.24.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "wait-on": "^4.0.2"
+    "wait-on": "^7.0.1"
   },
   "devDependencies": {
     "concurrently": "^5.1.0",
     "electron": "^8.2.3",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start & electron .",
